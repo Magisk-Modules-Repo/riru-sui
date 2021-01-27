@@ -1,0 +1,6 @@
+name=Sui
+version=v11.4.r78.290cd8a
+versionCode=78
+author=Rikka
+description=Modern superuser interface implementation, shares the same API design from Shizuku.
+minApi=9
