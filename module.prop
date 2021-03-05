@@ -1,6 +1,6 @@
 id=riru-sui
 name=Riru - Sui
-version=v11.4.5.r98.97d6575
-versionCode=98
+version=v11.5.0.r109.3ca654b
+versionCode=109
 author=Rikka
 description=Modern superuser interface implementation, shares the same API design from Shizuku.
